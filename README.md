@@ -1,4 +1,4 @@
-# event-2026-07-lightconedevsummit
+# event-template
 
 ## Scope
 
