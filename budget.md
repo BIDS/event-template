@@ -1,7 +1,5 @@
 # Event: [Name] Budget Plan
 
----
-
 ## Budget Overview
 
 > _What is the total budget allocated for this event? What are the sources, and what guidelines or limitations apply?_
