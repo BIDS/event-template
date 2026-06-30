@@ -1,7 +1,5 @@
 # Event: [Name] Logistics
 
----
-
 ## Basic Event Information
 
 Date(s): 
@@ -12,7 +10,7 @@ Type of event: _[in person, virtual, hybrid]_
 
 ## Venue
 
-> _Capture notes on venue decisions, including final decision on venue, and any relevant links to contracts or agreements._
+> _Capture notes on venue, including final decision on venue, and any relevant links to contracts or agreements._
 
 _[Enter information here]_
 
@@ -56,6 +54,10 @@ _[Enter restaurant reservation details here]_
 | --------- | ---- | ---- | ------ |
 
 _[Enter details of meals held during the event at the venue.]_
+
+## Run of Show
+
+>_Link the run of show, with any specific details noted here._
 
 ## Backup Plans
 
