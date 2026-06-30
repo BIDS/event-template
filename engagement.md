@@ -39,7 +39,7 @@ _[Enter any additional details here]_
 
 > _What platform will be used to track registration and attendance, and what fields are needed? Update with links to registration applications and decisions, and attendance sheets._
 
-_[Enter registration and attendance information and relevant links here]_
+Registration applications are done through a Google Form, linked [here](https://docs.google.com/forms/d/e/1FAIpQLScEZU-NlugK1nTAPjqagPG1Mmd5QuD7ORmoV01bf5rVPn81_g/viewform)
 
 ## Follow Ups
 
