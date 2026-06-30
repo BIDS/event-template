@@ -1,7 +1,5 @@
 # Event: [Name] Engagement
 
----
-
 ## Audience Outreach
 
 > _How will this event be promoted? Identify specific channels that will be used._
@@ -11,8 +9,6 @@ _[Enter specific channel information here]_
 **Additional outreach notes:**
 
 _[Enter any additional details here]_
-
----
 
 ## Audience Engagement
 
@@ -39,17 +35,11 @@ _[Enter any additional details here]_
 
 _[Enter any additional details here]_
 
----
-
 ## Registration and Attendance
 
 > _What platform will be used to track registration and attendance, and what fields are needed? Update with links to registration applications and decisions, and attendance sheets._
 
-**Answer:**
-
 _[Enter registration and attendance information and relevant links here]_
-
----
 
 ## Follow Ups
 
@@ -58,17 +48,11 @@ _[Enter registration and attendance information and relevant links here]_
 
 _[Enter your response here]_
 
----
-
 ## Promotion
 
 > _How will the event be promoted (social media, email lists, etc.)? Include relevant links to social media posts once they have been created._
 
-**Answer:**
-
 _[Enter promotion plan here]_
-
----
 
 ## Design Deliverables
 
@@ -76,13 +60,9 @@ _[Enter promotion plan here]_
 
 _[Enter links here]_
 
----
-
 ## Risks
 
 > _What engagement/communications risks exist (e.g., low open rates, missed deadlines, approval delays)? How will they be mitigated?_
-
-**Answer:**
 
 _[Enter identified engagement risks here]_
 
