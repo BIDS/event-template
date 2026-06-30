@@ -55,6 +55,12 @@ _[Enter restaurant reservation details here]_
 
 _[Enter details of meals held during the event at the venue.]_
 
+## Agenda
+
+>_Provide a link or copy of the agenda below._
+
+_[Enter agenda link here.]_
+
 ## Run of Show
 
 >_Link the run of show, with any specific details noted here._
