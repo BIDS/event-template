@@ -38,22 +38,7 @@ _[Enter what should be specified on the guest speaker invitation here]_
 
 > _Specify the type of event. Who is being invited? Is this invite-only, open registration, or application-only?_
 
-_[Enter invitation process and audience overview here]_
-
-## Attendee Invitation Lists
-
-> _If invite-only, who is on the primary and waitlist invitation lists?_
-
-_[Enter primary and waitlist attendee list details here]_
-
-- [ ] Provide a primary list of attendees (name, email) to invite
-- [ ] Provide a secondary/waitlist list in case of additional space
-- [ ] Provide a list of colleagues/partner organizations to invite
-- [ ] Get committee approval to invite colleagues/partner organizations
-
-**Application form notes (if application-only):**
-
-_[Enter application form questions here]_
+_[Enter invitation process and audience overview here. Add link to list of attendees here.]_
 
 ## Calendar & Listings
 
