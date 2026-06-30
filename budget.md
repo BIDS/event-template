@@ -39,6 +39,12 @@ _[Enter approver(s), approval process, and where approvals are filed here]_
 
 _[Enter information or link here]_
 
+## Travel Budget
+
+>_If applicable to this event, include details about types of guests and expense categories._
+
+_[Enter information here.]_
+
 ## Guest Speaker Budget
 
 > _What expenses will be covered for invited guest speakers? Will an honorarium be offered?_
