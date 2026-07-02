@@ -10,9 +10,15 @@ Type of event: _[in person, virtual, hybrid]_
 
 ## Venue
 
-> _Capture notes on venue, including final decision on venue, A/V needs, and any relevant links to contracts or agreements._
+> _Capture notes on venue, including final decision on venue, and any relevant links to contracts or agreements._
 
 _[Enter information here]_
+
+### A/V Needs
+
+> _Enter any additional notes related to A/V needs._
+
+Is this event going to be recorded? _[Yes/No]_
 
 ## Vendors
 
